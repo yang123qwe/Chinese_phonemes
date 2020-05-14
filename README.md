@@ -5,7 +5,10 @@ THCHS_30 数据 下载地址 ： http://www.openslr.org/resources/18/data_thchs3
 
 aishell   数据 下载地址 ： http://www.openslr.org/resources/33/data_aishell.tgz     
 
-ST-CMDS-20170001_1-OS    数据 下载地址 ： http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz   
+ST-CMDS-20170001_1-OS    数据 下载地址 ： http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz     
+
+标贝 数据下载地址: https://weixinxcxdb.oss-cn-beijing.aliyuncs.com/gwYinPinKu/BZNSYP.rar   
+
 
 eg：   
 
